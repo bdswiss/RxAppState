@@ -8,7 +8,7 @@
 
 import RxSwift
 import RxCocoa
-import Foundation
+import UIKit
 
 open class RxApplicationDelegateProxy: DelegateProxy<UIApplication, UIApplicationDelegate>, DelegateProxyType, UIApplicationDelegate {
 

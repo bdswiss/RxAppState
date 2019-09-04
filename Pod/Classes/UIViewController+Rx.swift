@@ -7,7 +7,7 @@
 
 import RxSwift
 import RxCocoa
-import Foundation
+import UIKit
 
 /**
  ViewController view states
